@@ -1,5 +1,5 @@
 #!/bin/bash
-links="http://kangle.odata.cc"
+links="https://github.com/chenxia130/centos-6-7-kangle/raw/master"
 files="/root/s-hell"
 file2="/root/s-hell/log"
 file3="/root/hl-tmp"
