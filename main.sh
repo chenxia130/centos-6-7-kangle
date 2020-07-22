@@ -245,7 +245,7 @@ function setvhms(){
 }
 function Update(){
 	cd $tmpfile
-	links="http://kangle.odata.cc"
+	links="https://github.com/chenxia130/centos-6-7-kangle/raw/master"
 	wget -q $links/config -O $files/config
 	wget -q $links/main.sh -O main.sh;
 	cp -f main.sh /usr/bin/kanglesh
